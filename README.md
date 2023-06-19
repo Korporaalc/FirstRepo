@@ -1,2 +1,2 @@
 # FirstRepo
-Basis skills
+Basis skills programmeren die ik heb opgedaan in mijn eerste jaar opleiding
